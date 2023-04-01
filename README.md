@@ -1,2 +1,2 @@
-# DL_-005-Droupout-Regularization-Sonar-Rock-VS-Mine
+# DL_005-Droupout-Regularization-Sonar-Rock-VS-Mine
  Droupout Regularization Sonar Rock VS Mine
